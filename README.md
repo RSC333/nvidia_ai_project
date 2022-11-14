@@ -16,5 +16,5 @@ Add an explanation of the algorithm and how it works. Make sure to include detai
 [View a video explanation here](video link)
 
 
-##todo 
+## todo 
 add train.py
