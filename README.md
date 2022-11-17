@@ -1,6 +1,8 @@
 # nvidia_project
 
  Add short description of project here > 
+ 
+ The goal of this project is to be able to identify the digits 0-9 using ai. This can be used as the basis for a text recognition model and expandded to include all symbols and letters. 
 
 ![add image descrition here](direct image link here)
 
