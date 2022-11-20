@@ -16,4 +16,4 @@ This project was trained on the Jetson Nano. It uses the imagenet and resnet-18 
 4. Run `imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/7/img008-045.png test.png` to process image, replacing image directory with chosen image. 
 5. Check test.png to see results
 
-[View a video explanation here](video link)
+[Demonstration Video](https://youtu.be/EW97F5e84hI)
